@@ -1,0 +1,6 @@
+[submodule "lighthouse"]
+	path = lighthouse
+	url = git@github.com:gaasedelen/lighthouse.git
+[submodule "diaphora"]
+	path = diaphora
+	url = git@github.com:joxeankoret/diaphora.git
