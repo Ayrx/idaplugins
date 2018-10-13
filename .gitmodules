@@ -4,3 +4,6 @@
 [submodule "diaphora"]
 	path = diaphora
 	url = git@github.com:joxeankoret/diaphora.git
+[submodule "IDASkins"]
+	path = IDASkins
+	url = git@github.com:zyantific/IDASkins.git
