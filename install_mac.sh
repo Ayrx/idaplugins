@@ -13,3 +13,7 @@ ln -sf ${PWD}/IDASkins/plugins/idaskins.py \
 
 ln -snf ${PWD}/IDASkins/plugins/idaskins \
 	${PLUGINDIR}/idaskins
+
+ln -sf ${PWD}/AMIE/amie.py ${PLUGINDIR}/amie.py
+ln -sf ${PWD}/AMIE/aarch32.json ${PLUGINDIR}/aarch32.json
+ln -sf ${PWD}/AMIE/aarch64.json ${PLUGINDIR}/aarch64.json
